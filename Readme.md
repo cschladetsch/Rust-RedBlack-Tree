@@ -6,7 +6,7 @@ Done purely out of curiosity and to learn more about Rust and memory manangement
 
 ## TODO
 
-Compare performance with C++ STL `std::set\<T\>`
+Compare performance with C++ STL `std::set<T>`
 
 
 
